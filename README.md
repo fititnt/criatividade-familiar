@@ -3,6 +3,8 @@ Hipótese de abordagem de incentivo a criatividade através de familiares. Visa
 aproveitar relações pessoais para, de forma descentralizada e **focada
 em retenção da informação**, ensino entre seus pares.
 
+Veja [lista de memes](meme/index.md).
+
 > **Regra zero: apenas abordagens de aprendizagens interativas poderão ser usadas**
 > (_isso quer dizer que você não pode obrigar outra pessoa a olhar no Google,
 > muito menos "ler um livro"; até mesmo ver um vídeo interativo é poibido se
@@ -30,13 +32,7 @@ que ser testado.
 > **Regra três: ** ...
 
 
-## Fases
+## Motivação
 
-### Fase zero
-Fase de teste, onde uma pessoa da família recebe apoio externo para estudar
-melhor forma de implantar a hipótese em sua família. É centrada em crianças
-jovens.
-
-### Fase um
-
-(...)
+Projeto iniciado a partir da Hipótese de Rocha 8: [Hipótese da Criatividade
+Familiar](https://github.com/fititnt/hipoteses-de-rocha).

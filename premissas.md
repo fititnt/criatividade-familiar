@@ -1,5 +1,9 @@
 # Premissas da Hipótese da Criatividade Familiar
 
+_Nota: por tempo indeterminado as premissas apontadas aqui poderão estar
+incompletas. Veja [lista de memes](meme/index.md). Um prazo aceitável para uma
+margem maior de precisão é de duas décadas (fititnt, 2017-03-29 02:24 BRT)._
+
 > **Regra zero: apenas abordagens de aprendizagens interativas poderão ser usadas**
 > (_isso quer dizer que você não pode obrigar outra pessoa a olhar no Google,
 > muito menos "ler um livro"; até mesmo ver um vídeo interativo é poibido se

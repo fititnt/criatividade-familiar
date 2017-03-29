@@ -20,3 +20,42 @@ com a sociedade?**
 > para pré-adolescentes, como induzir prazer na pesquisa _como brincadeira_
 > para que tendam a preferir projetos mais educativos ou práticos do que
 > ficar sobrecarregado com internet?
+
+## Proposta de abordagem teorizada até o momento
+
+## A ideia de como poderia ser implementado
+
+A ideia é usar de formas eficiêntes de como cérebro aprende e retem informação, em especial
+[metacognição](http://www.psicologiaexplica.com.br/o-que-e-metacognicao/).
+Sem entrar em muitos detalhes, algo útil para você é conhecer a **piramide de
+aprendizagem** a seguir, exibe uma chance de reter informação conforme o tipo de
+ensino usado. Note como métodos de ensino passivo são muito menos eficientes.
+
+![Piramide de aprendizagem](piramide-da-aprendizagem.jpg)
+
+Uma forma extremamente eficiente de aprender é ensinar, mais alta até mesmo que
+um instrutor ensinar e o aprendiz aplicar na prática. A hipótese a ser testada
+é **ensinar crianças algo que elas possam ensinar pra outras crianças**.
+
+Outro ponto é criar algo(...)
+
+<!--
+Como há uma competição grande
+com distrações, além de, idealmente, assumir que **as crianças/adolescentes
+podem ter problemas de aprendizagem, como déficit de atenção, hiperatividade,
+até mesmo autismo leve**
+-->
+
+## Seu papel aqui
+
+A chamada para sugestões é apenas para _brincadeiras/projetos_ que pessoas de
+4 a 16 anos poderiam aprender e replicar entre si, **sem ajuda de professor**,
+usando tempo livre em que não estão na escola. 
+
+O ponto chave aqui é: um familiar adulto, sem esperiência com _Ciência,
+Tecnologia, Engenharia e Matemática_ deverá ser capaz ler texto ou ver vídeo
+explicando que materiais deve disponibilizar e como deve abordar os aprendizes.
+Existem muitos vídeos na internet, como o [How to Make Hydraulic Powered
+Robotic Arm from Cardboard](https://www.youtube.com/watch?v=P2r9U4wkjcc)
+
+(...)

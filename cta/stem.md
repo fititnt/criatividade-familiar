@@ -30,6 +30,24 @@ acompanhamento de adulto ou de criança mais velha por exigir manuseio de alguma
 ferramenta perigosa para idade da pessoa aprendiz, porém o foco principal é
 tornar quem aprende um instrutor em potencial para outras crianças.
 
+**Pense em uma rede de jovens que ensinam e são ensinados**.
+
+Pode pensar isso como uma estratégia onde memes preparados por pessoas de áreas
+como engenharia são teorizados e testados por filhos de outras pessoas das
+mesmas áreas como estímulo para esses filhos e seus vizinhos, ou parentes, mesmo
+que via interação por vídeo conferência, troquem informações que acreditem que
+_estão apenas brincando_, mas lá no fundo estão também aprendendo método
+científico, como construir sua própria rede mirim de pesquisa. Idealmente
+os aprendizes tenderão a ficar maior parte do tempo com outros aprendizes,
+sendo interação de instrutores mais para estimulação pontual do que contínua.
+
+Essa hipótese não é apenas potencialmente boa para _filhos de engenheiros_ que
+querem incentivar criatividade, mas também para pessoas mais carentes, pois
+induz, por familiaridade, que crianças sejam mantidas juntas para algo que
+vai além de brincadeira. A hipótese assume que ao menos algumas tardes por
+semanas as crianças e jovens executariam ela, o que da em torno de 12 anos
+de planejamento de _memes para Criatividade Familiar_.
+
 
 ### Exemplos de tipos de abordagens
 
@@ -79,6 +97,8 @@ Além de listar vários desses brinquedos
 
 #### Desafio do tipo prove ou refute uma hipótese; deduza uma lógica (equação matemática)
 
+Considere um exemplo prático deste tipo:
+
 > Pense que você descobre uma meme onde, com materia prima e ferramentas,
 > e uma abordagem especial, consegue induzir uma criança que de 9 anos
 > a deduzir boa parte do Princípio de Arquimedes empiricamente SEM vocễ
@@ -96,13 +116,19 @@ nível de profundidade da pergunta deve ser demonstrada. Uma criança de 5 anos
 poderia ter que provar apenas que "empuxo existe", enquanto um jovem de 11
 detalhar até a formula matemática.
 
+Lembre-se: uma boa sugestão assume que, mesmo que você tenha conhecimento
+profundo de uma área, outros instrutores mais velhos
+(em geral pais/mães/tios/tias/avós/avôs) deverão saber o mínimo para ensinar
+de uma forma que a criança deduza algo. Não assuma que tal pessoa irá ler
+um livro ou ver vídeos longos para entender o meme. Ela provavelmente trabalha
+e tem pouco tempo com a criança.
 
 ### Pontos a serem considerados
 
 Recomenda-se ver em especial os seguintes pontos:
 
-1. [Meme 4: Exatidão de manual de instrução reduz criatividade](../4/criatividade-vs-manual-instrucao.md)
-2. [Meme 5: A experiência completa da atividade, não apenas o resultado, é o real presente](../5/presentes-com-significado.md)
+1. [Meme 4: Exatidão de manual de instrução reduz criatividade](../meme/4/criatividade-vs-manual-instrucao.md)
+2. [Meme 5: A experiência completa da atividade, não apenas o resultado, é o real presente](../meme/5/presentes-com-significado.md)
 
 <!--
 

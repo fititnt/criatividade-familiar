@@ -21,6 +21,91 @@ com a sociedade?**
 > para que tendam a preferir projetos mais educativos ou práticos do que
 > ficar sobrecarregado com internet?
 
+## Seu papel aqui
+
+A chamada para sugestões é para _presentes com significado_ para pessoas de
+4 a 16 anos poderiam aprender e replicar entre si, **sem ajuda de professor**,
+usando tempo livre em que não estão na escola. Alguns podem exigir
+acompanhamento de adulto ou de criança mais velha por exigir manuseio de alguma
+ferramenta perigosa para idade da pessoa aprendiz, porém o foco principal é
+tornar quem aprende um instrutor em potencial para outras crianças.
+
+
+### Exemplos de tipos de abordagens
+
+#### Guia para aprender a lidar com materiais de matéria prima
+
+Existem vários materiais que podem ser usados como matéria prima e, o processo
+de preparação, para o que servem e como podem ser usados ou não, já com
+consideração de toxicidade são pertinentes.
+
+O ideal seria ter uma lista de produtos que podem ser produzidos como
+matéria-prima para brinquedos/experimentos. Uma criança poderia fazer um
+excercício com braço hidráulico usando seguingas com água interligadas com
+canos de plastico com braços feitos de papelão. Que outros materiais poderiam
+ser usados para substituir o papelão?
+
+Que outros materiais podemos ter para subistuir papelão, com melhorias ou
+perdas? Madeira? Gesso? E argila cozida?
+
+No caso de argila cozida, tem alguma forma dela ser ainda mais resistente ao
+adicionar algum material nela? Ou ao cozer de forma especial? Ou mesmo adicionar
+algum material estrutural, como uma malha ou fios de ferro?
+
+Há bastante espaço aqui para pessoal de exatas sugerir materias primas de outros
+presentes cognitivos. Enquanto criança de 6 anos que tem irmão de 4 podem ficar
+restritos a usar sem ajuda de adulto tesoura sem ponta e papelão dentro de um
+apartamento, em idades maiores, com acompanhamento de adulto e com mais espaço,
+como um sítio de um parente, seria viável até mesmo estimular criação de uma
+forja capaz de derreter metais.
+
+#### Guia de como criar um brinquedo que pode ser usado para provar algo sofisticado
+
+Existem brinquedos que podem ser usados _meramente_ para brincar, como
+ensinar a construir um carrinho. Esses tipos de brinquedos também são bem
+vindos, pois também excercitam a habilidade do jovem em lidar com materiais,
+ou mesmo capacidade artística e de imaginação.
+
+Outra possibilidade são presentes que podem ensinar algo a mais, pode ser
+visto no vídeo [How to Make Hydraulic Powered Robotic Arm from 
+Cardboard](https://www.youtube.com/watch?v=P2r9U4wkjcc), [How To Make a Homemade
+Robotic ARM](https://www.youtube.com/watch?v=WUYpr-K_LGo) ou, para quem é fã
+de um certo jogo, [How To Make Assassin's Creed Hidden
+Blade](https://www.youtube.com/watch?v=4t_aokFnUk8).
+
+<!--
+Além de listar vários desses brinquedos
+-->
+
+#### Desafio do tipo prove ou refute uma hipótese; deduza uma lógica (equação matemática)
+
+> Pense que você descobre uma meme onde, com materia prima e ferramentas,
+> e uma abordagem especial, consegue induzir uma criança que de 9 anos
+> a deduzir boa parte do Princípio de Arquimedes empiricamente SEM vocễ
+> falar a formula correta. Caso essa criança consiga passar o mesmo
+> experimento SEM dar detalhes avançados para outra criança, sua abordagem
+> pode ser considerada um _meme_ da Criatividade Familiar. Você criou um
+> presente cognitivo, onde a experiência de ser estimulada, passar muitas
+> horas ou mesmo dias, leva a criança a deduzir algo que terá um índice
+> de retenção de conhecimento muito maior do que ver televisão, pois pouco
+> importa a longo prazo ler ou ver um vídeo se isso tenderá a ser esquecido.
+
+Note: conforme o nível de aprendizagem da criança, seja razoável no nível
+de desafio. Bons memes podem assumir certa liberdade para quem aplicar de qual
+nível de profundidade da pergunta deve ser demonstrada. Uma criança de 5 anos
+poderia ter que provar apenas que "empuxo existe", enquanto um jovem de 11
+detalhar até a formula matemática.
+
+
+### Pontos a serem considerados
+
+Recomenda-se ver em especial os seguintes pontos:
+
+1. [Meme 4: Exatidão de manual de instrução reduz criatividade](../4/criatividade-vs-manual-instrucao.md)
+2. [Meme 5: A experiência completa da atividade, não apenas o resultado, é o real presente](../5/presentes-com-significado.md)
+
+<!--
+
 ## Proposta de abordagem teorizada até o momento
 
 ## A ideia de como poderia ser implementado
@@ -39,12 +124,12 @@ um instrutor ensinar e o aprendiz aplicar na prática. A hipótese a ser testada
 
 Outro ponto é criar algo(...)
 
-<!--
+
 Como há uma competição grande
 com distrações, além de, idealmente, assumir que **as crianças/adolescentes
 podem ter problemas de aprendizagem, como déficit de atenção, hiperatividade,
 até mesmo autismo leve**
--->
+
 
 ## Seu papel aqui
 
@@ -59,3 +144,5 @@ Existem muitos vídeos na internet, como o [How to Make Hydraulic Powered
 Robotic Arm from Cardboard](https://www.youtube.com/watch?v=P2r9U4wkjcc)
 
 (...)
+
+-->

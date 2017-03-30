@@ -1,7 +1,15 @@
 # Meme 5: A experiência completa da atividade, não apenas o resultado, é o real presente
-O real valor de um _presente cognitivo_ está na experiência compelta que ele
+O real valor de um _presente cognitivo_ está na **experiência completa** que ele
 produz em quem recebe. Esta experiência não está ligada ao preço dos materiais
 usados para alcançá-la!
+
+> Um problema extremamente comum em adultos (e crianças que não tiveram sua
+> criatividade inspirada) é de requerer presentes montados completos. Se a criança
+> é jovem demais para fazer com auxílio seus presentes, ela deveria ser menos
+> exposta a influências externas. Se a criança é mais velha, deveria receber ajuda
+> para criar seus brinquedos, mesmo que pra isso tenha que ser estimulada a ter
+> também aulas de pintura. Lembre-se: o processo de imaginação (criatividade)
+> é bem ativo até em crianças.
 
 ## Aos instrutores e familiares: sobre comprar insumos (materia-prima, equipamentos) mais caros que o mínimo necessário
 Em poucas palavras: **NÃO COMPRE MATERIA PRIMA MAIS CARA, principalmente como

@@ -18,3 +18,4 @@ memes.
 4. [Meme 4: Exatidão de manual de instrução reduz criatividade](4/criatividade-vs-manual-instrucao.md)
 5. [Meme 5: A experiência completa da atividade, não apenas o resultado, é o real presente](5/presentes-com-significado.md)
 6. [Meme 6: Conhecimento mínimo sobre dificuldades de aprendizagem](6/dificuldades-de-aprendizagem.md)
+7. [Meme 7: Meme por ser escrito](6/meme-a-ser-escrito.md)

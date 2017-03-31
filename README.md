@@ -97,7 +97,6 @@ Veja [lista de premissas](premissas.md).
 ## Motivação
 
 Projeto iniciado a partir da Hipótese de Rocha 8: [Hipótese da Criatividade
-Familiar](https://github.com/fititnt/hipoteses-de-rocha).
-
-Veja também [Estratégias para familiares no incentivo ao Desenvolvimento
+Familiar](https://github.com/fititnt/hipoteses-de-rocha)
+e do [Estratégias para familiares no incentivo ao Desenvolvimento
 Cognitivo de descendentes](https://github.com/fititnt/presente-cognitivo).

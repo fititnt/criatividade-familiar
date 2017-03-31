@@ -15,7 +15,23 @@ A Hipótese da Criatividade Familiar é também uma [memética (link externo)](h
 voltada especificamente para [memes (link externo)](https://pt.wikipedia.org/wiki/Meme)
 que incentivam criatividade.
 
-Veja [lista de memes](meme/index.md).
+### [Memes genéricos](meme/index.md)
+
+[Memes genéricos](meme/index.md) são usados principalmente por desenvolvedores
+de memes da HCF e replicadores (instrutores) avançados.
+
+> Esse tipo de meme serve como referência rápida para pessoas de diferentes
+> conhecimentos prévios saberem o mínimo necessário para desenvolver outros
+> memes.
+
+### [Memes de atividades](atividade/index.md)
+
+[Memes de atividades](atividade/index.md) são atividades sociais de duas ou mais
+pessoas que excercitam a mente e, em na maioria das vezes, também o corpo.
+
+### [Memes de projetos](projeto/index.md)
+
+[Memes de projetos](projeto/index.md)
 
 <!--
 

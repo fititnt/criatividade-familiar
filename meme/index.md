@@ -1,4 +1,16 @@
 # Hipóteses de memes para Criatividade Familiar
+Memes genéricos são usados principalmente por desenvolvedores
+de memes da HCF e replicadores (instrutores) avançados.
+
+Esse tipo de meme serve como referência rápida para pessoas de diferentes
+conhecimentos prévios saberem o mínimo necessário para desenvolver outros
+memes.
+
+> É pertinente a um engenheiro químico saber o mínimo sobre metacognição, como
+> a piramide de aprendizagem, para hipotetizar memes que além de _brincadeira_
+> são projetos práticos que ensinam conceitos de química
+
+## Lista de Memes de Propósito Geral
 
 1. [Meme 1: Incerteza Criativa](1/incerteza-criativa.md)
 2. [Meme 2: Não sugira algo que não vai dar imediatamente de presente](2/presenteie-nao-sugira.md)

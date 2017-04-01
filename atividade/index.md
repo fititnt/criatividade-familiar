@@ -18,4 +18,18 @@ terapia problemas de aprendizagem.
 
 ## Lista de Projetos
 
+### Estágio sensório-motor
+
+1. [Atividade 1-1: Cantar para bebê](1/1/cantar.md)
+
+### Estágio pré-operatório
+
+_Sem atividades adicionados neste momento._
+
+### Estágio operatório-concreto
+
+_Sem atividades adicionados neste momento._
+
+### Estágio operatório-formal
+
 _Sem atividades adicionados neste momento._

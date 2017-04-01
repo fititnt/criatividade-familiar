@@ -129,6 +129,7 @@ Recomenda-se ver em especial os seguintes pontos:
 
 1. [Meme 4: Exatidão de manual de instrução reduz criatividade](../meme/4/criatividade-vs-manual-instrucao.md)
 2. [Meme 5: A experiência completa da atividade, não apenas o resultado, é o real presente](../meme/5/presentes-com-significado.md)
+3. [Meme 9: Atividades/projetos podem usar diferentes matérias-primas conforme estágio de desenvolvimento e disponibilidade](9/atividades-projetos-diferentes-materias-primas.md)
 
 <!--
 
@@ -150,12 +151,10 @@ um instrutor ensinar e o aprendiz aplicar na prática. A hipótese a ser testada
 
 Outro ponto é criar algo(...)
 
-
 Como há uma competição grande
 com distrações, além de, idealmente, assumir que **as crianças/adolescentes
 podem ter problemas de aprendizagem, como déficit de atenção, hiperatividade,
 até mesmo autismo leve**
-
 
 ## Seu papel aqui
 

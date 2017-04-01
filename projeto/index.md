@@ -28,7 +28,7 @@ forma, a **HCF trata crianças e cientístas de forma parecida**.
 ### Estágio sensório-motor
 
 Possivelmente não deve haver atividade para fazer "projeto" nesta fase, que
-vai do nascimento até o 18 a 24 meses.
+vai do nascimento até o 18-24 meses.
 
 ### Estágio pré-operatório
 

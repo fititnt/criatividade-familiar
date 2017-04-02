@@ -2,7 +2,7 @@
 Não apenas aprendizes, mas os replicadores devem usar criatividade: **mesmo que
 o guia de um projeto padrão dê a entender que um material específico deve ser
 usado** (como madeira, que exige ferramentas como serrote) **os replicadores
-poderão adaptar conforme o [estágio do desnevolvimento cognitivo](../8/estagios-desenvolvimento-piaget.md)
+poderão adaptar conforme o [estágio do desenvolvimento cognitivo](../8/estagios-desenvolvimento-piaget.md)
 de quem irá aprender** (trocando por cartolina e tesoura sem ponta).
 
 > Uma criança de 5 anos que, via ajuda de um adulto, usou **papelão**,

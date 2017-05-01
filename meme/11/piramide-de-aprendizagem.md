@@ -5,7 +5,8 @@ simplificada nas formas de reter informação aprendida**, que **é mais útil s
 do que desconhecer completamente**, porém ao repassar esse conhecimento adiante,
 em especial se associado a imagens que afirmam _percentual exato_ a uma pessoa
 leiga (que, na prática, é quase qualquer um que não seja um estudioso avançado
-nas áreas de metacognição):
+nas áreas de metacognição), você poderia se basear ou mesmo repassar integralmente
+o seguinte:
 
 > Está é uma imagem da Piramide de Aprendizagem. É uma forma poética de explicar
 > que aprender de forma passiva tende a ser muito menos proveitoso do que de

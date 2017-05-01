@@ -21,5 +21,5 @@ memes.
 7. [Meme 7: Meme por ser escrito](7/meme-a-ser-escrito.md)
 8. [Meme 8: Os 4 estágios de desenvolvimento de Piaget](8/estagios-desenvolvimento-piaget.md)
 9. [Meme 9: Atividades/projetos podem usar diferentes matérias-primas conforme estágio de desenvolvimento e disponibilidade](9/atividades-projetos-diferentes-materias-primas.md)
-10. [Meme 10: Considere sobre Sobrecarga de Informação ao estimular uso autodidata com computadores](10/sobrecarga-de-informacao-computadores.md)
+10. [Meme 10: Considere sobre Sobrecarga de Informação implícita nos estimulos autodidatas](10/sobrecarga-de-informacao-computadores.md)
 11. [Meme 11: A parcialmente plausível, ainda assim útil, Pirâmide de Aprendizagem](11/piramide-de-aprendizagem.md)

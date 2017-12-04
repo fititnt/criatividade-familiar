@@ -76,12 +76,50 @@ que dão resultado mais rápido como verduras ou flores (tempo de 2-3 meses) em
 vez de algo mais complexo, como um pé de jabuticabeira [que, sem técnicas como
 esta de gerar fruta em 4 meses poderiam levar uns 10 anos](https://www.youtube.com/watch?v=nKxtr04QPuw).
 
-## Exemplo de kit de presente
+# Um exemplo de presente usando este meme
 
----
+Nesse exemplo, a pessoa mentora _também_ morava em apartamento, tinha pouco
+tempo disponível para fazer a própria [terra vegetal](https://www.youtube.com/watch?v=FcoCUyrSYH8),
+ou o próprio adubo, optou por comprar um vaso em vez [de fazer um vaso
+autoirrigável que poderia ser até mais prático](https://www.youtube.com/watch?v=iZVYm-ghVTA)
+e não tinha como produzir as próprias sementes. Some tudo isso ao fato de que
+um mercado também permitia embalar tudo em papel de presente. O valor total
+sem essas economias pode ser visto na nota a seguir, já com as descrições mais
+exatas para caso você queira fazer quase o mesmo com seu presente:
+
+![Nota fiscal](presente-kit-jardinagem.jpg)
+
+Pontos a considerar para quem quer fazer algo parecido:
+- Não necessariamente uma loja especializada oferecerá os melhores preços,
+  em especial se você quer menor quantidade. A nota é de um supermercado,
+  que tinha preços melhores do que outras lojas
+- Preço de vaso varia significativamente entre lojas e entre modelos.
+- Preço varia muito pela quantidade de sementes compradas. Não faz sentido
+  comprar mais do que a menor quantidade disponível e, mesmo que você tenha
+  dinheiro, opte por comprar mais sementes variadas e dar opção para pessoa
+  aprendiz (foi o que fiz)
+- O presente completo foi R$99,50, porém se fosse para escolher reduzir custos
+  eu recomendaria remover o óleo de Neem e o adubo líquido. A terra estava muito
+  barata e valeria a pena manter, principalmente sem contar com adubo extra
+- Sementes da Isla, comuns em super mercado, tem uma vantagem ótima: o verso é
+  muito explicativo de como plantar, o que pode ser bom para você mentor e a
+  pessoa aprendiz
+- As sementes são o mais importante e foram baratas: 8 tipos diferentes, já com
+  embalagem auto explicativa, deram R$14,32. Se preço é um fator que pesa no seu
+  bolso mas quer dar algo que "dure a longo prazo", note que além da sementes
+  o único item que é difícil ser produzido é o kit de jardinagem da Tramontina
+  que é lindo e custou apenas R19,90.
+
+
+## O presente
+
+Veja como ficou a embalagem final e o que tinha dentro dela:
 
 ![Presente Kit Jardinagem](presente-kit-jardinagem.jpg)
 
----
+## O projeto inicial
+
+Junto com a entrega de presentes, a pessoa mentora também ensinou como fazer o
+plantio inicial:
 
 ![Plantas](plantas.jpg)

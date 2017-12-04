@@ -23,4 +23,4 @@ memes.
 9. [Meme 9: Atividades/projetos podem usar diferentes matérias-primas conforme estágio de desenvolvimento e disponibilidade](9/atividades-projetos-diferentes-materias-primas.md)
 10. [Meme 10: Considere sobre Sobrecarga de Informação implícita nos estimulos autodidatas](10/sobrecarga-de-informacao-computadores.md)
 11. [Meme 11: A parcialmente plausível, ainda assim útil, Pirâmide de Aprendizagem](11/piramide-de-aprendizagem.md)
-12. [Meme 12: Presentear com kit de jardinagem para apartamento](12/presente-kit-jardinagem-apartamento.md)
+12. [Meme 12: Presentear com kit de jardinagem para apartamento](12/presentear-kit-jardinagem-apartamento.md)

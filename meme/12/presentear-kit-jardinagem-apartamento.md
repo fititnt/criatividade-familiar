@@ -17,6 +17,32 @@ da pessoa aprendiz são inclusive uma forma de redirecionar atenção dedicada
 com uso de internet para aprendizagem com algo que podem tocar, sentir e
 aprender.
 
+Pontos extras a considerar levando em conta que uma meta geral é promover
+criatividade:
+
+- Procure promover independência e autoconfiança permitindo até mesmo que a
+  pessoa aprendiz erre na sua frente sem super proteger; aprendizes imersos
+  em um mundo digital podem ter um nível menor a frustração e erro, de modo que
+  uma criança chorar ao derrubar sem querer uma muda no chão, você deixá-la
+  entender seu próprio sentimento e depois ajudá-la a entender como resolver
+  sozinha é um aprendizado para vida;
+- Reforce que a experiência completa envolve também limpeza; mesmo que exista
+  alguém que vá limpar para pessoa aprendiz (como os pais dela, ou pessoa
+  aprendiz) faça questão de que ao menos o que é relativo a jardinagem a pessoa
+  esteja auto consciente sobre que isso ela mesmo deve ser proativa (o que, note
+  também contribui para independência, algo muito importante)
+- Caso haja outros amigos da pessoa aprendiz (algo comum em um aniversário)
+  pode ser muito interessante você como pessoa mentora ensinar também eles,
+  de modo que todos saiam com mudas de plantas para casa; essas outras pessoas
+  se tornam uma rede de influência positiva e em geral podem permanecer mais
+  tempo junto com a pessoa aprendiz do que os próprios parentes
+- Ensine como você aprendeu mas assuma que a criança pode querer copiar você,
+  logo dê mais importância a formas que ela consiga isso; se ela tem internet,
+  exiba você usando internet para aprender (como os vídeos de Youtube); se
+  um amigo dela não tem internet em casa, procure alternativas sem obrigar
+  todos a agirem de forma igual, como por exemplo dizer que a própria embalagem
+  de sementes dá informações mínimas de como cuidar sem precisar da internet
+
 ## Informações básicas sobre os pontos chave
 
 ### Ponto chave 1: saber sobre jardinagem para apartamento
@@ -78,7 +104,7 @@ esta de gerar fruta em 4 meses poderiam levar uns 10 anos](https://www.youtube.c
 
 # Um exemplo de presente usando este meme
 
-Nesse exemplo, a pessoa mentora _também_ morava em apartamento, tinha pouco
+Nesse exemplo a pessoa mentora _também_ morava em apartamento, tinha pouco
 tempo disponível para fazer a própria [terra vegetal](https://www.youtube.com/watch?v=FcoCUyrSYH8),
 ou o próprio adubo, optou por comprar um vaso em vez [de fazer um vaso
 autoirrigável que poderia ser até mais prático](https://www.youtube.com/watch?v=iZVYm-ghVTA)
@@ -87,7 +113,7 @@ um mercado também permitia embalar tudo em papel de presente. O valor total
 sem essas economias pode ser visto na nota a seguir, já com as descrições mais
 exatas para caso você queira fazer quase o mesmo com seu presente:
 
-![Nota fiscal](presente-kit-jardinagem.jpg)
+![Nota fiscal](nota-fiscal.jpg)
 
 Pontos a considerar para quem quer fazer algo parecido:
 - Não necessariamente uma loja especializada oferecerá os melhores preços,
@@ -108,8 +134,12 @@ Pontos a considerar para quem quer fazer algo parecido:
   embalagem auto explicativa, deram R$14,32. Se preço é um fator que pesa no seu
   bolso mas quer dar algo que "dure a longo prazo", note que além da sementes
   o único item que é difícil ser produzido é o kit de jardinagem da Tramontina
-  que é lindo e custou apenas R19,90.
+  que é lindo e custou apenas R19,90. Com valor suficiente para ficar abaixo
+  de R$40,00, você poderia comprar ou um vaso menor, ou copinhos descartáveis
+  para fase de germinação
 
+**Ou seja: com criatividade os valores poderiam baixar de R$99,50 para menos de
+R$40,00, sendo valor mínimo de R$14,32**.
 
 ## O presente
 

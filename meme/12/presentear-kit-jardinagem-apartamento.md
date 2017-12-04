@@ -38,13 +38,45 @@ outros meios (como reciclagem, receber como doação, extração de sementes de
 vegetais que já possuia, [fabricação de terra vegetal](https://www.youtube.com/watch?v=FcoCUyrSYH8),
 etc)**.
 
+#### Um exemplo mínimo
+Esse é possívelmente o exemplo mínimo mais comum, tanto é que é uma experiência
+típica ensinada nos anos iniciais na escola, e pode ser muito indicada se a
+pessoa aprendiz é muito nova.
 
-O mínimo que pode usar (e ainda assim pode ser ótimo!) é um grão de feijão,
-algodão e um copo (...)
+- Uma semente de feijão
+- Algodão
+- Copo
+- Água
 
+Existem diversas fontes para explicar como fazer, a exemplo de vídeos como este,
+[Como plantar feijão no algodão!(Passo a Passo!)](https://www.youtube.com/watch?v=de0EaNWvZOM)
+
+#### Exemplos mais complexos
+Exemplos mais complexos que o do feijão no algodão vão depender do que você
+pretende ensinar inicialmente para pessoa aprendiz. **O mínimo necessário
+é entregar material mínimo para permitir a germinação (plantar a semente de
+forma que possa gerar uma muda)**, o que tende a ser:
+
+- **Sementes**, ou entregar vegetais e extrair junto com aprendiz ao vivo (requisito obrigatório)
+- **Terra** (requisito obrigatório)
+- **Local para plantar** (requisito obrigatório)
+- Ferramentas (caso não use _as próprias mãos_, ou talheres como colher)
+- Adubo conforme necessidade da planta (caso não faça parte do presente criar o
+  próprio adubo ou terra vegetal).
+
+Aviso 1: tenha em mente que mesmo que você queira dar um vaso grande,
+dependendo da(s) semente(s) escolhidas, é mais ideal plantar em um copo menor,
+como um copo pequeno de plástico de 50mL ou 90mL (copo descartável para café).
+
+Aviso 2: há uma demora entre plantar a semente e a planta ficar grande, e isso
+"faz parte da experiência desse meme", avise a pessoa aprendiz sobre isso e já
+aproveite para prepará-la para as próximas etapas preferencialmente já tendo em
+mãos a expectativa de datas. Tende a ser interessante começar com sementes
+que dão resultado mais rápido como verduras ou flores (tempo de 2-3 meses) em
+vez de algo mais complexo, como um pé de jabuticabeira [que, sem técnicas como
+esta de gerar fruta em 4 meses poderiam levar uns 10 anos](https://www.youtube.com/watch?v=nKxtr04QPuw).
 
 ## Exemplo de kit de presente
-
 
 ---
 

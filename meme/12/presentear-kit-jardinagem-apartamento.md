@@ -1,4 +1,4 @@
-# Meme 12: Presentear com kit de jardinagem para apartamento
+# Meme 12: Presentear com kit de jardinagem em apartamento
 
 Valendo-se do [Meme 5: A experiência completa da atividade, não apenas o
 resultado, é o real presente](../5/presentes-com-significado.md) este meme
@@ -21,7 +21,7 @@ Pontos extras a considerar levando em conta que uma meta geral é promover
 criatividade:
 
 - Procure promover independência e autoconfiança permitindo até mesmo que a
-  pessoa aprendiz erre na sua frente sem super proteger; aprendizes imersos
+  pessoa aprendiz erre na sua frente sem superproteger; aprendizes imersos
   em um mundo digital podem ter um nível menor a frustração e erro, de modo que
   uma criança chorar ao derrubar sem querer uma muda no chão, você deixá-la
   entender seu próprio sentimento e depois ajudá-la a entender como resolver
@@ -45,7 +45,7 @@ criatividade:
 
 ## Informações básicas sobre os pontos chave
 
-### Ponto chave 1: saber sobre jardinagem para apartamento
+### Ponto chave 1: saber sobre jardinagem em apartamento
 Não é necessário que você, pessoa mentora,  saiba sobre jardinagem, nem mesmo
 que tenha experiência na área visto que o propósito deste meme é usar esse tema
 apenas como uma _chamada para ação_ palpável.
@@ -65,7 +65,7 @@ vegetais que já possuia, [fabricação de terra vegetal](https://www.youtube.co
 etc)**.
 
 #### Um exemplo mínimo
-Esse é possívelmente o exemplo mínimo mais comum, tanto é que é uma experiência
+Esse é possivelmente o exemplo mínimo mais comum, tanto é que é uma experiência
 típica ensinada nos anos iniciais na escola, e pode ser muito indicada se a
 pessoa aprendiz é muito nova.
 
@@ -109,7 +109,7 @@ tempo disponível para fazer a própria [terra vegetal](https://www.youtube.com/
 ou o próprio adubo, optou por comprar um vaso em vez [de fazer um vaso
 autoirrigável que poderia ser até mais prático](https://www.youtube.com/watch?v=iZVYm-ghVTA)
 e não tinha como produzir as próprias sementes. Some tudo isso ao fato de que
-um mercado também permitia embalar tudo em papel de presente. O valor total
+um supermercado também permite embalar tudo em papel de presente. O valor total
 sem essas economias pode ser visto na nota a seguir, já com as descrições mais
 exatas para caso você queira fazer quase o mesmo com seu presente:
 
